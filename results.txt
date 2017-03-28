@@ -1,0 +1,31 @@
+Scores from p3 for You need to create an authors.csv file!!!! No one will receive credit for this assignment
+Addresses used: .@ucdavis.edu
+
+
+BST.cpp operation testing:
+1: for PR3.dat
+OK
+2: for PR4.dat
+OK
+3: for PR5.dat
+OK
+4: for PR6.dat
+OK
+5: for PR7.dat
+OK
+BST.cpp total: 10 
+
+QuadraticProbingPtr operation testing:
+6: for File1.dat 400000
+OK
+7: for File2.dat 200000
+OK
+8: for File3.dat 200000
+OK
+9: for File4.dat 200000
+OK
+10: for File5.dat 200000
+OK
+QuadraticProbingPtr.cpp total: 10
+
+Total score: 20
